@@ -16,7 +16,7 @@ import org.springframework.stereotype.Component;
 		}
 		
 		public void run(String...strings) throws Exception {
-			//this.repository.save(new Train("1","t1", "5","20", "Raipur","Delhi","24.04.2020 15:00:00"));
-			//this.repository.save(new Train("2","t2", "4","12","Hyderabad","Bangalore","25.04.2020 17:05:00"));
+			//this.repository.save(new Train("1","t1", "5","20", "Raipur","Delhi","30.12.2020 15:00:00"));
+			//this.repository.save(new Train("2","t2", "4","12","Hyderabad","Bangalore","20.12.2020 17:05:00"));
 		}
 	}

@@ -25,7 +25,7 @@ public class Train {
 	private String dest;
 	
 	public Train() {}
-	
+
 	public Train(String trainId, String trainName, String numberOfCompartment, String bookedSeats,String src,
 			String dest, String date) {
 		super();
